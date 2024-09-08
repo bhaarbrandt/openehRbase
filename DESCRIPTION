@@ -1,6 +1,6 @@
-Package: openehR
+Package: openehRbase
 Type: Package
-Title: openehR
+Title: openehRbase
 Version: 0.0.3
 Author: Steinar Falkflaug, Fredrik Bentzen, Christer Olsen, Adrian Sølvberg,
   Bjørn Fjukstad
